@@ -3,3 +3,9 @@ function myfun(y) {
   console.log(Number.isInteger(y));
 }
 myfun(10 / 'vt');
+
+// print how many number are in a string
+function fun(t) {
+  console.log(t.length);
+}
+fun('kartik')
