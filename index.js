@@ -12,6 +12,6 @@ fun('kartik')
 
 // convert string to number
 function m(s) {
-  console.log(parseInt("123"));
+  console.log(parseInt('123'));
 }
-myfunction("123";)
+myfunction('123');
