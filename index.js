@@ -10,8 +10,8 @@ function fun(t) {
 }
 fun('kartik')
 
-// convert string to number
-function m(s) {
-  console.log(parseInt('111'));
+// Convert string to number
+function myfun(t) {
+  console.log(parseInt('123'));
 }
-myFunction('111');
+myfunction('123')
