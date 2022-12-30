@@ -9,9 +9,3 @@ function fun(t) {
   console.log(t.length);
 }
 fun('kartik')
-
-// Convert string to number
-function myfun(t) {
-  console.log(parseInt('123'));
-}
-myfunction('123')
